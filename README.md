@@ -1,5 +1,4 @@
 # ThreadCraft Studio A 3D Apparel Artistry Platform @TriHacks
-# 3D Shirt + Car + Ring Customization App
 
 This repository contains the source code for a 3D Shirt + Car + Ring Customization App developed using React, Three.js, Framer Motion, and other libraries. The app allows users to customize the color, texture, and design of a 3D shirt, car and ring model.
 
