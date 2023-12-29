@@ -2,6 +2,10 @@
 
 This repository contains the source code for a 3D Shirt + Car + Ring Customization App developed using React, Three.js, Framer Motion, and other libraries. The app allows users to customize the color, texture, and design of a 3D shirt, car and ring model.
 
+## Demo
+
+[Google drive](https://drive.google.com/drive/folders/1-_5qdC_522v3UWVftL4Tygq7IFG8e4nC?usp=drive_link)
+
 ## Table of Contents
 * Project Structure
 * Installation
